@@ -166,4 +166,4 @@ spendsense/
 
 ## Author
 
-**Sai Venkat Reddy Seri** — [GitHub](https://github.com/SaivenkatReddy18) · [Portfolio](https://SaivenkatReddy18.github.io)
+**Sai Venkat Reddy Seri** — [GitHub](https://github.com/SaivenkatReddy18) 
